@@ -29,14 +29,9 @@ I'd like to take a moment to thank Fred Benton, co-director of NESRI, for sendin
 
 # Results
 
-#### Map of Streets in Flatbush, Brooklyn
+#### [Map of Streets in Flatbush, Brooklyn](https://mlala.github.io/static_test/finalmap_refd.html)
 
 
-<iframe
-    sandbox="allow-scripts allow-same-origin"
-    >
-    .
-    </iframe>
 
 
 ##### Header 5
