@@ -1,4 +1,6 @@
-
+---
+Mapping Slavery: a paved legacy in Brooklyn
+---
 
 # Background
 
